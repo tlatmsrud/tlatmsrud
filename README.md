@@ -9,10 +9,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Sim&fontSize=91)
 <br>
 
-**백엔드**에 대해서는 밑바닥이 높은 개발자가 되고싶은 심승경입니다.<br>
-배운 내용을 서로 공유하는 문화를 좋아합니다. 👏<br>
-뼈가 매우 단단하여 피드백 받는 것을 좋아합니다. 👈<br>
-기록을 통해 생각을 정리하고 것을 중요하게 생각합니다. ✍️<br>
+백엔드에 대해서는 **밑바닥이 높은 개발자**가 되고싶은 심승경입니다.<br>
+알게된 내용을 공유하는 문화를 좋아합니다. 👏<br>
+피드백 받는 것을 매우 좋아합니다. (통뼈입니다.) 👈<br>
+기록을 통해 생각을 정리하는 것을 중요하게 생각합니다. ✍️<br>
 꾸준한 운동을 통해 육체와 정신을 단련하는 것을 중요하게 생각합니다. 💪<br><br>
 
 <div align=center><h1>📚 STACKS</h1></div>
