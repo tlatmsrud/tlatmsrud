@@ -8,7 +8,7 @@
 백엔드에 대해서는 밑바닥이 높은 개발자가 되고싶은 백엔드 개발자 심승경입니다.  <br>
 배운 내용을 공유하고 피드백 받는 것을 좋아합니다.  <br>
 기록을 통해 생각을 정리하고 것을 중요하게 생각합니다. <br>
-꾸준한 운동을 통해 육체와 정신을 단련하는 것을 중요하게 생각합니다. 정진 😝  <br>
+꾸준한 운동을 통해 육체와 정신을 단련하는 것을 중요하게 생각합니다. 정진 😝  <br><br>
 
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 
@@ -30,4 +30,9 @@
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
 </div>
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlatmsrud&show_icons=true&theme=radical)
+
+<div align=center>
+<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=tlatmsrud&show_icons=true"/>
+<img align="center" style="height:180px" src="https://github-readme-stats-amber-omega.vercel.app/api/top-langs/?username=tlatmsrud&layout=compact"/>
+</div>
+
